@@ -41,10 +41,7 @@ Viewing the newly clean data:  <br/>
 <img src="https://user-images.githubusercontent.com/74327141/230402653-65a90a62-24b7-4e9d-b7f0-949a78dc10ff.png" height="80%" width="80%" alt="VS steps"/>
 <br />
 <br />
-Replacing Null with value: <br/>
-<img src="https://user-images.githubusercontent.com/74327141/229918527-ecc3dcb1-6403-4106-81ca-0daac4e00a30.png" height="100%" width="80%" alt="Python cleaning Steps"/>
-<br />
-<br />
+
 <!--
  ```diff
 - text in red
