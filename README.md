@@ -29,6 +29,10 @@ Create JupyterNotebook(.ipynb) File: <br/>
 <img src="https://user-images.githubusercontent.com/74327141/229914047-856a2b90-0c35-4732-b6b1-e3c94ef59ea9.png" height="80%" width="80%" alt="VS steps"/>
 <br />
 <br />
+Another way to clean data in python: <br/>
+<img src="https://user-images.githubusercontent.com/74327141/230402653-65a90a62-24b7-4e9d-b7f0-949a78dc10ff.png" height="80%" width="80%" alt="VS steps"/>
+<br />
+<br />
 Clean excel dataset: <br/>
 <img src="https://user-images.githubusercontent.com/74327141/229917685-0a95922e-228b-485d-8f30-26a5864d1430.png" height="100%" width="80%" alt="Python cleaning Steps"/>
 <br />
